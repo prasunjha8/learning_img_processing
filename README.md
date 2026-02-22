@@ -1,0 +1,1 @@
+Midsems start the day after tomorrow. I was trying to study linear algebra, but after a point it just felt a bit too abstract. So I casually switched to image processing for a change… and before I knew it, it was almost morning. Sleep lost, curiosity satisfied.
